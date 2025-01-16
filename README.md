@@ -1,5 +1,14 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Project Overview
+This project is a book library application, built using Next.js and various other technologies. The application allows users to browse and manage a collection of books.
+
+## Technologies/Frameworks/Library Used
+ - Next.js: A popular React-based framework for building server-side rendered and statically generated websites and applications.
+ - TypeScript: A superset of JavaScript that adds optional static typing and other features.
+ - Tailwind CSS: A utility-first CSS framework for building custom user interfaces.
+ - Shadcn: A design system and component library for building web applications, built on top of Chakra UI.
+
 ## Getting Started
 
 First, run the development server:
